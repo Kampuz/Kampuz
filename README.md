@@ -22,33 +22,11 @@ Fazer coisas legais :)
 
 ## 📊 Estastísticas
 
-[![Stats Dark](https://github-readme-stats-nine-beryl-39.vercel.app/api?username=Kampuz&show_icons=true&count_private=true&theme=react&hide_border=true#gh-dark-mode-only)](https://github.com/Kampuz)
-
-
 [![Anurag's GitHub stats-Dark](https://github-readme-stats-nine-beryl-39.vercel.app/api?username=Kampuz&show_icons=true&rank_icon=percentile&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats-nine-beryl-39.vercel.app/api?username=Kampuz&show_icons=true&rank_icon=percentile&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats-nine-beryl-39.vercel.app/api?username=Kampuz&size_weight=0.5&count_weight=0.5&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats-nine-beryl-39.vercel.app/api?username=Kampuz&size_weight=0.5&count_weight=0.5&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats-nine-beryl-39.vercel.app/api/top-langs/?username=Kampuz&size_weight=0.5&count_weight=0.5&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats-nine-beryl-39.vercel.app/api/top-langs/?username=Kampuz&size_weight=0.5&count_weight=0.5&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Harlok's WakaTime stats](https://github-readme-stats-nine-beryl-39.vercel.app/api?username=Kampuz&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Harlok's WakaTime stats](https://github-readme-stats-nine-beryl-39.vercel.app/api?username=Kampuz&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-Em desenvolvimento
-
-
-
-<!--
-**Kampuz/Kampuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Harlok's WakaTime stats](https://github-readme-stats-nine-beryl-39.vercel.app/api/wakatime/?username=Kampuz&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Harlok's WakaTime stats](https://github-readme-stats-nine-beryl-39.vercel.app/api/wakatime/?username=Kampuz&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
