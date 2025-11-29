@@ -22,7 +22,8 @@ Fazer coisas legais :)
 
 ## 📊 Estastísticas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kampuz)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats-nine-beryl-39.vercel.app/api?username=Kampuz&show_icons=true&count_private=true)](https://github.com/Kampuz)
+
 
 Em desenvolvimento
 
