@@ -25,6 +25,14 @@ Fazer coisas legais :)
 [![Stats Dark](https://github-readme-stats-nine-beryl-39.vercel.app/api?username=Kampuz&show_icons=true&count_private=true&theme=react&hide_border=true#gh-dark-mode-only)](https://github.com/Kampuz)
 
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-nine-beryl-39.vercel.app/api?username=Kampuz&show_icons=true&rank_icon=percentile&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats-nine-beryl-39.vercel.app/api?username=Kampuz&show_icons=true&rank_icon=percentile&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats-nine-beryl-39.vercel.app/api?username=Kampuz&size_weight=0.5&count_weight=0.5&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats-nine-beryl-39.vercel.app/api?username=Kampuz&size_weight=0.5&count_weight=0.5&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Harlok's WakaTime stats](https://github-readme-stats-nine-beryl-39.vercel.app/api?username=Kampuz&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Harlok's WakaTime stats](https://github-readme-stats-nine-beryl-39.vercel.app/api?username=Kampuz&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 Em desenvolvimento
 
