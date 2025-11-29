@@ -4,7 +4,8 @@
 
 Email: miguel.moret@unesp.br
 
-Linkedin: link
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Miguel-de-Campos-Rodrigues-Moret)
+
 
 ## 🤓 Atualmente
 
