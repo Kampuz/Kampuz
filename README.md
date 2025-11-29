@@ -1,25 +1,25 @@
 ## Hi there 👋
 
-## Contato
+## 📪Contato
 
 Email: miguel.moret@unesp.br
 Linkedin: link
 
-## Atualmente
+## 🤓 Atualmente
 
 Estudante do 3º ano de Ciências da Computação na Unesp - Faculdade de Ciências e Tecnologia, Presidente Prudente.
 
-## Objetivos
+## 🎯 Objetivos
 
 Fazer coisas legais :)
 
-## Background
+## 📚 Background
 
 - 2x Medalhista da ONC - Olímpiada Nacional de Ciências (prata - 2022, bronze - 2021)
 
 - Medalhista da OBA - Olímpiada Brasileira de Astronomia - (prata em 2022)
 
-## Estastísticas
+## 📊 Estastísticas
 
 Em desenvolvimento
 
