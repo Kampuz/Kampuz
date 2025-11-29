@@ -3,6 +3,7 @@
 ## 📪Contato
 
 Email: miguel.moret@unesp.br
+
 Linkedin: link
 
 ## 🤓 Atualmente
