@@ -2,7 +2,7 @@
 
 ## 📪Contato
 
-Email: miguel.moret@unesp.br
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:miguel.moret@unesp.br)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Miguel-de-Campos-Rodrigues-Moret)
 
