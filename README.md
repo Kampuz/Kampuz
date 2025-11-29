@@ -22,7 +22,10 @@ Fazer coisas legais :)
 
 ## 📊 Estastísticas
 
-[![Stats](https://github-readme-stats-nine-beryl-39.vercel.app/api?username=Kampuz&show_icons=true&count_private=true)](https://github.com/Kampuz)
+[![Stats](https://github-readme-stats-nine-beryl-39.vercel.app/api?username=Kampuz&show_icons=true&theme=reactcount_private=true)](https://github.com/Kampuz)
+
+![Stats Dark](https://github-readme-stats-nine-beryl-39.vercel.app/api?username=Kampuz&show_icons=true&count_private=true&theme=react&hide_border=true#gh-dark-mode-only)
+
 
 
 Em desenvolvimento
