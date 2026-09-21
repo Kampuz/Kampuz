@@ -8,7 +8,7 @@
 
 ## 🤓 Atualmente
 
-Estudante do 3º ano de Ciências da Computação na Unesp - Faculdade de Ciências e Tecnologia, Presidente Prudente.
+Estudante do 4º ano de Ciências da Computação na Unesp - Faculdade de Ciências e Tecnologia, Presidente Prudente.
 
 ## 🎯 Objetivos
 
