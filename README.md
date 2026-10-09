@@ -22,10 +22,8 @@ Fazer coisas legais :)
 
 ## 📊 Estastísticas
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kampuz)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Kampuz&hide_title=true&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=Kampuz&hide_title=true&show_icons=true&include_all_commits=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats-nine-beryl-39.vercel.app/api/top-langs/?username=Kampuz&size_weight=0.5&count_weight=0.5&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats-nine-beryl-39.vercel.app/api/top-langs/?username=Kampuz&size_weight=0.5&count_weight=0.5&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Kampuz&layout=compact&langs_count=6&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=Kampuz&layout=compact&langs_count=6&theme=midnight-purple)
 
-[![Harlok's WakaTime stats](https://github-readme-stats-nine-beryl-39.vercel.app/api/wakatime/?username=Kampuz&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Harlok's WakaTime stats](https://github-readme-stats-nine-beryl-39.vercel.app/api/wakatime/?username=Kampuz&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=Kampuz&hide_title=true&langs_count=6&display_format=percent&theme=midnight-purple)](https://wakatime.com/@Kampuz)
